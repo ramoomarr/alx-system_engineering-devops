@@ -1,7 +1,2 @@
 #!/bin/bash
-
-# Connect to the Star Wars ASCII animation server
 telnet towel.blinkenlights.nl
-
-# Press Enter to start the animation
-read -n 1
